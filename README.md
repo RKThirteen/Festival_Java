@@ -1,1 +1,1 @@
-# University
+# University projects and exercises
