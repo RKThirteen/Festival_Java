@@ -14,7 +14,7 @@ public class Main {
 
     static final String DB_URL = "jdbc:mysql://localhost:3307/untolddb";
     static final String USER = "root";
-    static final String PASS = "ManyacG@mer6669";
+    static final String PASS = "ABC!23";
     static List<String> commands= Arrays.asList("List Untolders","Show Untolder","List Artists","Show Artist","Remove Artist","Add Person","List Venues","Add Venue","Show Venue","Remove Venue","Generate Tickets","List Tickets","Show Ticket","Refund Ticket","Buy Ticket","Check In","Remove Untolder","Top Up","Help","Exit");
     static List<String> description=Arrays.asList("List of all Untolders","Look up specific Untolder","List of all artists","Look up specific artist","Remove artist from database","Add Person(you will be prompted to create them as Untolder or Artist)",
                                                     "List of all Venues","Look up specific Venue","Add Venue to database","Remove Venue from database","Generate Tickets, VIP Tickets and One Day Passes at once","List all available tickets, or only a category",
